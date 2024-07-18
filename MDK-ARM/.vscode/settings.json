@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "mpu6050.h": "c",
+        "main.h": "c",
+        "inv_mpu.h": "c",
+        "initializer_list": "c",
+        "i2c.h": "c"
+    }
+}
